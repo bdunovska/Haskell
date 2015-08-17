@@ -1,0 +1,7 @@
+Use of user defined types in Haskell.
+
+I concentrate on three types 
+
+- representation of arithmetic expressions built up from integers, addition and multiplication
+- trees 
+- alternative representation of a list

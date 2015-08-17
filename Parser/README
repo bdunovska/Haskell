@@ -1,0 +1,7 @@
+We look at our own simple imperative language - runxy.
+
+Interpreter.hs - a simple imperative language interpreter.
+Parser.hs - a parser for our language.
+AbstractSyntax.hs - specifies the abstract syntax for our language.
+
+There are three programs for you to test, written in runxy. Follow the instructions in Main.hs in order to execute them. Enjoy!
